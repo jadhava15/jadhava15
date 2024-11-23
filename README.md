@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst
 
 Welcome to my GitHub! I'm a **Data Analyst** with over **12 years of experience** in transforming raw data into meaningful insights. Here, you'll find projects that showcase my skills in **SQL, NoSQL, Data Warehousing, ETL**, and **No-Code/Low-Code platforms**.
 
